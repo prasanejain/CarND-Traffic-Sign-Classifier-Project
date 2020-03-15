@@ -1,0 +1,2 @@
+model_checkpoint_path: "lenetLecun_dataAugNew"
+all_model_checkpoint_paths: "lenetLecun_dataAugNew"
